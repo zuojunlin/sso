@@ -9,6 +9,7 @@
         <artifactId>framework-bom</artifactId>
         <version>0.1.7</version>
     </parent>
+    
 
 
     <groupId>com.iquanwai</groupId>
